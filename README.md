@@ -1,1 +1,3 @@
-Readme de la app en go de budget para aprender go
+#Budget app in Go
+
+Aplicación para el armado de presupuesto de Tan bien soldamos, pero de uso general
